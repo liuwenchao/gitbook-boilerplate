@@ -1,6 +1,6 @@
 # Hero and Beauty
 
-> book introduction here, we use (gitbook)[http://www.gitbook.io] behind the scene.
+> book introduction here, we use (gitbook)[http://www.gitbook.io] behind the scene, Thanks to it!
 > And yes! this is about how hero and beauty work togehter to save the world.
 
 ## Live Version
@@ -9,15 +9,17 @@
 
 ## Background
 
-> Background line 1
 > The beauty is kidnapped by the monster;
 > And the hero beat the monster, saved the beauty, saved the world.
+> How does the beauty help? she is kidnapped so that the hero can step out of the gym.
 
 ## Main Charactors
 
-**John**：he's a hero.
+**John**：He's a hero.
 
 **Anne**：She's a beauty.
+
+**Monster**: You tell me.
 
 ## Contributing
 
