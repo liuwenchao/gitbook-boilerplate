@@ -1,6 +1,7 @@
 # Hero and Beauty
 
-> book introduction here, we use (gitbook)[http://www.gitbook.io] behind the scene, Thanks to it!
+> book introduction here, we use [gitbook](http://www.gitbook.io) behind the scene, Thanks to it!
+
 > And yes! this is about how hero and beauty work togehter to save the world.
 
 ## Live Version
@@ -10,7 +11,9 @@
 ## Background
 
 > The beauty is kidnapped by the monster;
+
 > And the hero beat the monster, saved the beauty, saved the world.
+
 > How does the beauty help? she is kidnapped so that the hero can step out of the gym.
 
 ## Main Charactors
@@ -40,4 +43,4 @@
 
 ## Licence
 
-(CC3.0)[https://creativecommons.org/licenses/by/3.0/]
+[CC3.0](https://creativecommons.org/licenses/by/3.0/)
