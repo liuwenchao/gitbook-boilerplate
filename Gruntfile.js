@@ -13,7 +13,7 @@ module.exports = function(grunt) {
         },
         'gitbook': {
             optiosn: {
-                "title": "FIXME",
+                "title": "FIXME in Gruntfile.js",
                 "input": "./",
                 "generator": "site"
             }
